@@ -1,0 +1,8 @@
+@import 'tailwindcss';
+
+@source '../graph_pathfinding_visualizer.tsx';
+
+html,
+body {
+  background-color: #020617;
+}
